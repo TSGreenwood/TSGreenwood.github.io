@@ -1,0 +1,23 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+header {
+  display:flex;
+  justify-content: center;
+}
+.justinsection {
+  text-align: center;
+
+}
+
+.justinsection li {
+  list-style: none;
+}
+
+.tarasection {
+text-align: center;
+}
+  .tarasection li{
+    list-style: none;
+  }
+}

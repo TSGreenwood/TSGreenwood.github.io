@@ -1,0 +1,36 @@
+
+<html>
+<body>
+    <head>
+    
+   <! -- comments-->
+   <! -- comments in the head are instructions for the program but not seen on the front end-->
+   </head>
+   
+   <body>
+   <title> 
+   Outlier Records Artists
+    </title>
+
+       
+        
+        <nav>
+        <ul>
+        <li>
+        Justin
+        </li>
+        </ul>
+        </nav>
+        <section>
+        <p>
+        Outlier Records Artists
+        </section>
+        </p>
+        <p> 
+        <h2>
+        About the artists>
+        </h2>
+        </body>
+        </html>
+        
+    
